@@ -42,7 +42,7 @@ before_install:
 
 # Building the sse
 install:
- - cd liferay-plugins-sdk-6.1.1/portlets/test_sse
+ - cd liferay-plugins-sdk-6.1.1/portlets/semantic-search-portlet
  #- sudo ant all
 
 notifications:
