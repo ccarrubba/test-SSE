@@ -1,6 +1,5 @@
-[![Travis](http://img.shields.io/travis/csgf/semantic-search-portlet/master.png)](https://travis-ci.org/csgf/semantic-search-portlet)
-[![Documentation Status](https://readthedocs.org/projects/csgf/badge/?version=latest)](http://csgf.readthedocs.org)
-[![License](https://img.shields.io/github/license/csgf/semantic-search-portlet.svg?style?flat)](http://www.apache.org/licenses/LICENSE-2.0.txt)
+[![Travis](http://img.shields.io/travis/ccarrubba/test-sse/master.png)](https://travis-ci.org/ccarrubba/test-sse)
+
 
 # semantic-search-portlet
 
